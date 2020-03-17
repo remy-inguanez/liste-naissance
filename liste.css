@@ -1,0 +1,73 @@
+* {
+	font-family: Lobster;
+}
+h1 {
+	text-align: center;
+	font-family: Lobster;
+	color: #730099;
+	text-shadow: 2px 3px 3px #ff4dff;
+}
+table {
+	text-align: center;
+	background-color: #730099;
+    border-radius: 20px;
+	color: white;
+    font-family: Lobster;	
+}
+body {
+	background-color: #ffccff;
+	font-family: Lobster;
+	color: #730099;
+	
+}
+fieldset {
+	text-align: center;
+	color: white;
+	padding: 20px;
+	background-color: #730099;
+	font-family: Lobster;
+	border-radius: 20px;		
+}
+
+.champ {
+margin-bottom: 10px;
+}
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	text-shadow: 2px 3px 3px #ff4dff;
+	text-align: center;
+}
+a:hover {
+	color: violet;
+}
+.Formulaire {
+	text-align: center;
+	font-family: Lobster;
+	color: #730099;
+	text-shadow: 2px 3px 3px #ff4dff;
+}
+.submit {
+	font-family: Lobster;
+	
+}
+
+.urgent {
+	background-color: #e60000;
+}
+
+.disponible {
+	background-color: #59b300;
+}
+
+.déjàselectionné {
+	background-color: #e65c00;
+}
+
+.produitacheté {
+	background-color: #0073e6;
+}
+td {
+	font-family: 'Sen', sans-serif;
+}
